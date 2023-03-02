@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Prof. Manos Panaousis"
+title                    : "Dr Sakshyam Panda"
 title_separator          : "-"
-name                     : &name "Manos Panaousis"
-description              : &description "Professor of Cyber Security"
-url                      : https://www.manospanaousis.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Sakshyam Panda"
+description              : &description "Research Fellow in Cyber Security and Privacy"
+url                      : https://www.sakshyampanda.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : 
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -56,13 +56,13 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : manospanaousis
+#twitter:
+ # username               : manospanaousis
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : profile.png # Open Graph/Twitter default site image
+og_image                 : profile.jpg # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -76,19 +76,19 @@ analytics:
   google:
     tracking_id          : 
   goatcounter            :
-    code		             : manospanaousis
+    code		             : sakshyampanda
 
 # Site Author
 author:
-  name             : "Manos Panaousis"
+  name             : "Sakshyam Panda"
   avatar           : "profile.png"
-  bio              : "Professor of Cyber Security"
+  bio              : "Research Fellow in Cyber Security and Privacy"
   location         : London, UK
   employer         : University of Greenwich 
   pubmed           : 
-  orcid            : "https://orcid.org/0000-0001-7306-4062"
-  googlescholar    : "https://scholar.google.com/citations?user=FRwRt24AAAAJ&hl=en"
-  email            : "e.panaousis@greenwich.ac.uk"
+  orcid            : "https://orcid.org/0000-0001-7274-0073"
+  googlescholar    : "https://scholar.google.com/citations?user=8Rwg4pkAAAAJ&hl=en&oi=ao"
+  email            : "s.panda@greenwich.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
@@ -104,7 +104,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "manospanaousis"
+  linkedin         : "sakshyampanda"
   mastodon         :  # "fosstodon.org/@jayrobw"
   pinterest        :
   soundcloud       :
