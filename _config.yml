@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sakshyam Panda"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Research Fellow in Cyber Security and Privacy"
   location         : London, UK
   employer         : University of Greenwich 
@@ -104,7 +104,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "sakshyampanda"
+  linkedin         : "https://www.linkedin.com/in/sakshyam-panda-5bb69a53/"
   mastodon         :  # "fosstodon.org/@jayrobw"
   pinterest        :
   soundcloud       :
